@@ -7,10 +7,10 @@ Highlights include:
      * [GigBAR Move+ ILS User Manual](https://github.com/jdtibbrine/Portfolio/blob/09a05f0279651829ad65647b3d71d0f4f9cada05/GigBAR_MOVE_%2BILS_UM_EU_ML5_Rev3.pdf)
      * [FlareCON App User Manual](https://github.com/jdtibbrine/Portfolio/blob/5699e65a52afc6e1ef2dbc09023f47794366daae/FlareCon-App_UM_ML6_Rev3.pdf)
      * [REM MIRA Installation Guide](https://github.com/jdtibbrine/Portfolio/blob/5699e65a52afc6e1ef2dbc09023f47794366daae/REM_MIRA_Installation_Guide_Rev1-1.pdf)
-* Illustrated quick reference guides designed for fast onboarding and minimal technical support
+* Illustrated quick reference guides designed for fast onboarding and minimal technical support:
      * [COLORdash Par H12XIP Quick Reference Guide](https://github.com/jdtibbrine/Portfolio/blob/09a05f0279651829ad65647b3d71d0f4f9cada05/COLORdash_Par_H12XIP_QRG_ML5_Rev2.pdf)
      * [COLORado PXL Curve 12 Quick Reference Guide](https://github.com/jdtibbrine/Portfolio/blob/5699e65a52afc6e1ef2dbc09023f47794366daae/COLORado-PXL-Curve-12_QRG_ML5_Rev3.pdf)
-* Photometrics and technical reports aligned with industry standards
+* Photometrics and technical reports aligned with industry standards:
      * [LOGIC S Cove Photometrics Report](https://github.com/jdtibbrine/Portfolio/blob/5699e65a52afc6e1ef2dbc09023f47794366daae/Logic%20Cove%20S_Photometrics%20Report.pdf)
      * [Maverick Silens 2X Profile Photometrics Report](https://github.com/jdtibbrine/Portfolio/blob/5699e65a52afc6e1ef2dbc09023f47794366daae/Maverick-Silens-2X-Profile_Photometrics-Report.pdf)
 
